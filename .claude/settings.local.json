@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:www.sohu.com)",
+      "WebFetch(domain:www.xiaohongshu.com)",
+      "WebFetch(domain:www.mbachina.com)",
+      "WebFetch(domain:mtoutiao.xdf.cn)",
+      "PowerShell(Start-Process \"C:\\\\Users\\\\张庆智\\\\Documents\\\\First-CC\\\\浙大撤销学硕事件调查报告.docx\")",
+      "PowerShell(npm *)",
+      "PowerShell(python C:\\\\Users\\\\张庆智\\\\Desktop\\\\助手整理\\\\_extract_ch1.py)",
+      "PowerShell(python C:\\\\Users\\\\张庆智\\\\Desktop\\\\助手整理\\\\_extract_ch1_sections.py)",
+      "PowerShell(python C:\\\\Users\\\\张庆智\\\\Desktop\\\\助手整理\\\\_extract_ch1_sections2.py)",
+      "PowerShell(winget install *)",
+      "PowerShell(git config *)",
+      "PowerShell(git *)",
+      "PowerShell(Set-Location *)",
+      "PowerShell(git add *)"
+    ]
+  },
+  "enabledMcpjsonServers": [
+    "puppeteer"
+  ]
+}
