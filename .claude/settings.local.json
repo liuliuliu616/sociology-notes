@@ -15,7 +15,8 @@
       "PowerShell(git config *)",
       "PowerShell(git *)",
       "PowerShell(Set-Location *)",
-      "PowerShell(git add *)"
+      "PowerShell(git add *)",
+      "PowerShell(Test-NetConnection *)"
     ]
   },
   "enabledMcpjsonServers": [
