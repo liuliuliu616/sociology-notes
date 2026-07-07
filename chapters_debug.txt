@@ -1,0 +1,14 @@
+Para 37 [标题 #1]: 第六章Bst级、lift层与社会流SU
+  hex: e7acace585ade7aba0427374e7baa7e380816c696674e5b182e4b88ee7a4bee4bc9ae6b5815355
+Para 312 [标题 #2]: 第七章社区与城镇化
+  hex: e7acace4b883e7aba0e7a4bee58cbae4b88ee59f8ee99587e58c96
+Para 541 [标题 #2]: 第八章社金变迁与现代化
+  hex: e7acace585abe7aba0e7a4bee98791e58f98e8bf81e4b88ee78eb0e4bba3e58c96
+Para 753 [标题 #2]: 第九章社金发展与社会政策
+  hex: e7acace4b99de7aba0e7a4bee98791e58f91e5b195e4b88ee7a4bee4bc9ae694bfe7ad96
+Para 982 [标题 #2]: 第十章社金问题与社会治理
+  hex: e7acace58d81e7aba0e7a4bee98791e997aee9a298e4b88ee7a4bee4bc9ae6b2bbe79086
+Para 1239 [标题 #2]: 第十一章社会工作
+  hex: e7acace58d81e4b880e7aba0e7a4bee4bc9ae5b7a5e4bd9c
+Para 1485 [标题 #2]: 第十二章社会学研究方法
+  hex: e7acace58d81e4ba8ce7aba0e7a4bee4bc9ae5ada6e7a094e7a9b6e696b9e6b395
